@@ -1,0 +1,14 @@
+D:\My coding projects (winforms)\just for fun\just for fun\bin\Debug\net8.0\just for fun.exe
+D:\My coding projects (winforms)\just for fun\just for fun\bin\Debug\net8.0\just for fun.deps.json
+D:\My coding projects (winforms)\just for fun\just for fun\bin\Debug\net8.0\just for fun.runtimeconfig.json
+D:\My coding projects (winforms)\just for fun\just for fun\bin\Debug\net8.0\just for fun.dll
+D:\My coding projects (winforms)\just for fun\just for fun\bin\Debug\net8.0\just for fun.pdb
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\just for fun.GeneratedMSBuildEditorConfig.editorconfig
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\just for fun.AssemblyInfoInputs.cache
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\just for fun.AssemblyInfo.cs
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\just for fun.csproj.CoreCompileInputs.cache
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\just for fun.dll
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\refint\just for fun.dll
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\just for fun.pdb
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\just for fun.genruntimeconfig.cache
+D:\My coding projects (winforms)\just for fun\just for fun\obj\Debug\net8.0\ref\just for fun.dll
